@@ -137,7 +137,7 @@
         android:layout_below="@id/img_password"
         android:layout_centerHorizontal="true"
         android:id="@+id/sign_up_btn"
-        android:layout_marginTop="16dp"
+        android:layout_marginTop="18dp"
         android:textColor="@android:color/white"
         android:background="@color/colorAccent"/>
 
